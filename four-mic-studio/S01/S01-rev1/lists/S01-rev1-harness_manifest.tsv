@@ -1,0 +1,9 @@
+net	harness_pn
+/INPUT_SNK	
+/MIC_CABLE_1	
+/MIC_CABLE_2	
+/OUTPUT_SNK	
+unconnected-(PREAMP1-out1-Pad3)	
+unconnected-(PREAMP1-out2-Pad4)	
+unconnected-(PREAMP2-out1-Pad3)	
+unconnected-(PREAMP2-out2-Pad4)	

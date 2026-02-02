@@ -1,0 +1,230 @@
+{
+  "nodes": {
+    "PREAMP1.in1": {
+      "x": 8.94882,
+      "y": 3.40157
+    },
+    "PREAMP1.in2": {
+      "x": 8.94882,
+      "y": 3.5
+    },
+    "PREAMP1.out1": {
+      "x": 10.05118,
+      "y": 3.40157
+    },
+    "PREAMP1.out2": {
+      "x": 10.05118,
+      "y": 3.5
+    },
+    "VOCAL1.out1": {
+      "x": 3.05118,
+      "y": 5.40157
+    },
+    "PREAMP2.in1": {
+      "x": 8.94882,
+      "y": 4.40157
+    },
+    "PREAMP2.in2": {
+      "x": 8.94882,
+      "y": 4.5
+    },
+    "PREAMP2.out1": {
+      "x": 10.05118,
+      "y": 4.40157
+    },
+    "PREAMP2.out2": {
+      "x": 10.05118,
+      "y": 4.5
+    },
+    "X2.A": {
+      "x": 3.94882,
+      "y": 3.55118
+    },
+    "X2.B": {
+      "x": 4.44882,
+      "y": 3.55118
+    },
+    "X1.A": {
+      "x": 5.70079,
+      "y": 3.85039
+    },
+    "X1.B": {
+      "x": 6.20079,
+      "y": 3.85039
+    },
+    "MIC3.out1": {
+      "x": 3.05118,
+      "y": 4.44882
+    },
+    "X3.A": {
+      "x": 3.94882,
+      "y": 4.44882
+    },
+    "X3.B": {
+      "x": 4.44882,
+      "y": 4.44882
+    },
+    "MIC2.out1": {
+      "x": 2.64961,
+      "y": 3.55118
+    },
+    "MIC100.out1": {
+      "x": 2.79921,
+      "y": 2.40157
+    },
+    "wirejunction-0": {
+      "x": 8.09843,
+      "y": 3.25197
+    },
+    "wirejunction-1": {
+      "x": 8.09843,
+      "y": 3.5
+    },
+    "wirejunction-2": {
+      "x": 4.79921,
+      "y": 4.44882
+    },
+    "wirejunction-3": {
+      "x": 8.09843,
+      "y": 4.5
+    },
+    "wirejunction-4": {
+      "x": 4.79921,
+      "y": 5.40157
+    },
+    "wirejunction-5": {
+      "x": 8.09843,
+      "y": 3.85039
+    },
+    "wirejunction-6": {
+      "x": 8.09843,
+      "y": 4.25197
+    },
+    "wirejunction-7": {
+      "x": 8.5,
+      "y": 4.25197
+    },
+    "wirejunction-8": {
+      "x": 4.79921,
+      "y": 3.85039
+    },
+    "wirejunction-9": {
+      "x": 8.5,
+      "y": 3.25197
+    },
+    "wirejunction-10": {
+      "x": 8.5,
+      "y": 4.40157
+    },
+    "wirejunction-11": {
+      "x": 4.79921,
+      "y": 3.55118
+    },
+    "wirejunction-12": {
+      "x": 8.5,
+      "y": 3.40157
+    },
+    "wirejunction-13": {
+      "x": 4.79921,
+      "y": 2.40157
+    }
+  },
+  "segments": {
+    "05e12188-f11e-44bd-834c-43a71cbe4a81": {
+      "node_at_end_a": "wirejunction-0",
+      "node_at_end_b": "wirejunction-1"
+    },
+    "0737d1e3-cfea-4678-bb20-593804fc751c": {
+      "node_at_end_a": "X3.B",
+      "node_at_end_b": "wirejunction-2"
+    },
+    "1457f0e5-90c4-4f1e-82bb-586754fa94ca": {
+      "node_at_end_a": "PREAMP2.in2",
+      "node_at_end_b": "wirejunction-3"
+    },
+    "19b0244d-717d-4675-9796-ffbea914f3ba": {
+      "node_at_end_a": "wirejunction-4",
+      "node_at_end_b": "wirejunction-2"
+    },
+    "1f1df4a6-9e31-48d8-8ca9-b1b9dff176ed": {
+      "node_at_end_a": "VOCAL1.out1",
+      "node_at_end_b": "wirejunction-4"
+    },
+    "3a450717-e51b-47bb-9720-f19cb6ad9041": {
+      "node_at_end_a": "X1.B",
+      "node_at_end_b": "wirejunction-5"
+    },
+    "532517c4-d114-4678-9357-ba0e8d5e0a96": {
+      "node_at_end_a": "wirejunction-6",
+      "node_at_end_b": "wirejunction-7"
+    },
+    "6d4fd8da-59d9-44b9-916c-178759ca77a3": {
+      "node_at_end_a": "wirejunction-5",
+      "node_at_end_b": "wirejunction-6"
+    },
+    "6e54e23c-642c-4b59-8d49-297653a5f498": {
+      "node_at_end_a": "wirejunction-8",
+      "node_at_end_b": "X1.A"
+    },
+    "7578d5ab-91be-496d-bde0-1310885733c7": {
+      "node_at_end_a": "MIC2.out1",
+      "node_at_end_b": "X2.A"
+    },
+    "87645a11-40a9-4738-a860-48b8d02df5b1": {
+      "node_at_end_a": "wirejunction-8",
+      "node_at_end_b": "wirejunction-2"
+    },
+    "9997e259-ebb6-47a7-ba64-35e55038f8f4": {
+      "node_at_end_a": "wirejunction-9",
+      "node_at_end_b": "wirejunction-0"
+    },
+    "9d7d0d18-3f91-4bf0-8f01-bc66e5886fb3": {
+      "node_at_end_a": "wirejunction-10",
+      "node_at_end_b": "PREAMP2.in1"
+    },
+    "a21efe2b-d8c1-4113-9154-18cc6dd52cf1": {
+      "node_at_end_a": "wirejunction-11",
+      "node_at_end_b": "wirejunction-8"
+    },
+    "b313c0d9-26d8-4701-86de-3b1d90cb9d22": {
+      "node_at_end_a": "wirejunction-6",
+      "node_at_end_b": "wirejunction-3"
+    },
+    "be89c986-d27d-413e-86af-6e3a9ce6a35b": {
+      "node_at_end_a": "wirejunction-10",
+      "node_at_end_b": "wirejunction-7"
+    },
+    "c2d37bd4-435b-4315-8ba2-c2014573d78e": {
+      "node_at_end_a": "wirejunction-12",
+      "node_at_end_b": "wirejunction-9"
+    },
+    "c54bc15f-a609-4a7b-8ba4-fd4e6e56c5c6": {
+      "node_at_end_a": "wirejunction-1",
+      "node_at_end_b": "wirejunction-5"
+    },
+    "c9943a3a-524d-4fb5-b3a9-a78a689b2357": {
+      "node_at_end_a": "wirejunction-13",
+      "node_at_end_b": "wirejunction-11"
+    },
+    "d2850210-8f99-45cd-b203-f7290eb8b4f0": {
+      "node_at_end_a": "MIC100.out1",
+      "node_at_end_b": "wirejunction-13"
+    },
+    "d6120365-64f7-4250-b161-884075e915a0": {
+      "node_at_end_a": "wirejunction-12",
+      "node_at_end_b": "PREAMP1.in1"
+    },
+    "e2b8062c-31c9-42b9-854a-053d8b5e067a": {
+      "node_at_end_a": "MIC3.out1",
+      "node_at_end_b": "X3.A"
+    },
+    "ec09a9cc-b5c8-4af5-9fc7-ef6020da10b8": {
+      "node_at_end_a": "wirejunction-1",
+      "node_at_end_b": "PREAMP1.in2"
+    },
+    "fcad8f03-ffcd-4242-8abc-61d0e5b170e6": {
+      "node_at_end_a": "X2.B",
+      "node_at_end_b": "wirejunction-11"
+    }
+  }
+}

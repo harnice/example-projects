@@ -1,0 +1,10 @@
+device_refdes	MFG	MPN	lib_repo	lib_subpath	rev	disconnect
+MIC2	Shure	sm58	https://github.com/harnice/harnice	pro_audio/shure/	rev1	
+MIC3	Shure	sm58	https://github.com/harnice/harnice	pro_audio/shure/	rev1	
+MIC100	Shure	sm58	https://github.com/harnice/harnice	pro_audio/shure/	rev1	
+PREAMP1	APPLIED RESEARCH AND TECHNOLOGY	726787	https://github.com/harnice/harnice	pro_audio/applied_research_and_technology/	rev1	
+PREAMP2	APPLIED RESEARCH AND TECHNOLOGY	726787	https://github.com/harnice/harnice	pro_audio/applied_research_and_technology/	rev1	
+VOCAL1	Shure	sm58	https://github.com/harnice/harnice	pro_audio/shure/	rev1	
+X1		tascam-db25	https://github.com/harnice/harnice	audio/	rev1	TRUE
+X2		tascam-db25	https://github.com/harnice/harnice	audio/	rev1	TRUE
+X3		tascam-db25	https://github.com/harnice/harnice	audio/	rev1	TRUE
