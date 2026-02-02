@@ -1,0 +1,461 @@
+<svg xmlns="http://www.w3.org/2000/svg" stroke-linecap="round" stroke-linejoin="round" viewBox="0.0000 0.0000 297.0022 210.0072" width="297.0022mm" height="210.0072mm">
+  <g id="kicad_sch_parser-net-overlay-contents-start">
+<polygon points="206.200,82.100 206.200,89.400 205.200,89.400 205.200,82.100" fill="#F5F4EF" stroke="none" />
+<polygon points="112.500,112.500 122.400,112.500 122.400,113.500 112.500,113.500" fill="#F5F4EF" stroke="none" />
+<polygon points="227.800,114.800 205.200,114.800 205.200,113.800 227.800,113.800" fill="#F5F4EF" stroke="none" />
+<polygon points="121.400,137.700 121.400,112.500 122.400,112.500 122.400,137.700" fill="#F5F4EF" stroke="none" />
+<polygon points="77.000,136.700 122.400,136.700 122.400,137.700 77.000,137.700" fill="#F5F4EF" stroke="none" />
+<polygon points="157.000,97.300 206.200,97.300 206.200,98.300 157.000,98.300" fill="#F5F4EF" stroke="none" />
+<polygon points="205.200,107.500 216.400,107.500 216.400,108.500 205.200,108.500" fill="#F5F4EF" stroke="none" />
+<polygon points="206.200,97.300 206.200,108.500 205.200,108.500 205.200,97.300" fill="#F5F4EF" stroke="none" />
+<polygon points="121.400,97.300 145.300,97.300 145.300,98.300 121.400,98.300" fill="#F5F4EF" stroke="none" />
+<polygon points="66.800,89.700 100.800,89.700 100.800,90.700 66.800,90.700" fill="#F5F4EF" stroke="none" />
+<polygon points="122.400,97.300 122.400,113.500 121.400,113.500 121.400,97.300" fill="#F5F4EF" stroke="none" />
+<polygon points="216.400,83.100 205.200,83.100 205.200,82.100 216.400,82.100" fill="#F5F4EF" stroke="none" />
+<polygon points="215.400,111.300 227.800,111.300 227.800,112.300 215.400,112.300" fill="#F5F4EF" stroke="none" />
+<polygon points="122.400,89.700 122.400,98.300 121.400,98.300 121.400,89.700" fill="#F5F4EF" stroke="none" />
+<polygon points="206.200,107.500 206.200,114.800 205.200,114.800 205.200,107.500" fill="#F5F4EF" stroke="none" />
+<polygon points="215.400,112.300 215.400,107.500 216.400,107.500 216.400,112.300" fill="#F5F4EF" stroke="none" />
+<polygon points="215.400,86.900 215.400,82.100 216.400,82.100 216.400,86.900" fill="#F5F4EF" stroke="none" />
+<polygon points="206.200,88.400 206.200,98.300 205.200,98.300 205.200,88.400" fill="#F5F4EF" stroke="none" />
+<polygon points="122.400,60.500 122.400,90.700 121.400,90.700 121.400,60.500" fill="#F5F4EF" stroke="none" />
+<polygon points="70.600,60.500 122.400,60.500 122.400,61.500 70.600,61.500" fill="#F5F4EF" stroke="none" />
+<polygon points="215.400,85.900 227.800,85.900 227.800,86.900 215.400,86.900" fill="#F5F4EF" stroke="none" />
+<polygon points="77.000,112.500 100.800,112.500 100.800,113.500 77.000,113.500" fill="#F5F4EF" stroke="none" />
+<polygon points="205.200,88.400 227.800,88.400 227.800,89.400 205.200,89.400" fill="#F5F4EF" stroke="none" />
+<polygon points="112.500,89.700 122.400,89.700 122.400,90.700 112.500,90.700" fill="#F5F4EF" stroke="none" />
+<path d="M 69.263,90.835 C 83.800,90.835 83.800,90.835 98.337,90.835" stroke="#d59a10" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(69.263,90.835) rotate(-0.000)">
+  <rect x="-1.365" y="-0.400"
+        width="2.730" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">out1</text>
+</g>
+<g transform="translate(98.337,90.835) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch0</text>
+</g>
+<path d="M 114.963,90.835 C 117.099,90.835 117.099,90.835 119.234,90.835 C 120.670,90.835 121.265,91.430 121.265,92.866 C 121.265,93.130 121.265,93.130 121.265,93.394 C 121.265,96.038 123.280,95.895 125.923,95.895 C 133.350,95.895 133.350,95.895 140.777,95.895" stroke="#d59a10" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(114.963,90.835) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch0</text>
+</g>
+<g transform="translate(140.777,95.895) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch0</text>
+</g>
+<path d="M 161.523,95.895 C 181.323,95.895 181.323,95.895 201.122,95.895 C 204.133,95.895 206.335,95.893 206.335,92.882 C 206.335,92.536 206.335,92.536 206.335,92.191 C 206.335,89.821 206.621,88.265 208.991,88.265 C 217.164,88.265 217.164,88.265 225.337,88.265" stroke="#d59a10" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(161.523,95.895) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch0</text>
+</g>
+<g transform="translate(225.337,88.265) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">in2</text>
+</g>
+<g transform="translate(181.323,95.895) rotate(-0.000)">
+  <rect x="-7.035" y="-0.400"
+        width="14.070" height="0.800"
+        fill="white" stroke="black" stroke-width="0.05"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:black;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">MIC2.out1 &lt;-&gt; PREAMP1.in2</text>
+</g>
+<path d="M 73.063,60.365 C 96.500,60.365 96.500,60.365 119.937,60.365 C 121.774,60.365 122.535,61.126 122.535,62.963 C 122.535,75.249 122.535,75.249 122.535,87.534 C 122.535,90.200 122.535,90.200 122.535,92.866 C 122.535,93.130 122.535,93.130 122.535,93.394 C 122.535,94.781 123.633,94.625 125.020,94.625 C 133.350,94.625 133.350,94.625 141.680,94.625" stroke="#d59a10" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(73.063,60.365) rotate(-0.000)">
+  <rect x="-1.365" y="-0.400"
+        width="2.730" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">out1</text>
+</g>
+<g transform="translate(141.680,94.625) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch1</text>
+</g>
+<g transform="translate(96.500,60.365) rotate(-0.000)">
+  <rect x="-7.455" y="-0.400"
+        width="14.910" height="0.800"
+        fill="white" stroke="black" stroke-width="0.05"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:black;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">MIC100.out1 &lt;-&gt; PREAMP1.in1</text>
+</g>
+<path d="M 160.620,94.625 C 181.256,94.625 181.256,94.625 201.891,94.625 C 204.833,94.625 207.605,96.164 207.605,93.222 C 207.605,92.440 207.605,92.440 207.605,91.658 C 207.605,88.567 206.335,88.699 206.335,85.609 C 206.335,85.086 206.335,85.086 206.335,84.563 C 206.335,83.624 206.724,83.235 207.663,83.235 C 210.800,83.235 210.800,83.235 213.937,83.235 C 214.876,83.235 215.265,83.624 215.265,84.563 C 215.265,84.626 215.265,84.374 215.265,84.437 C 215.265,85.896 216.404,85.765 217.863,85.765 C 221.600,85.765 221.600,85.765 225.337,85.765" stroke="#d59a10" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(160.620,94.625) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch1</text>
+</g>
+<g transform="translate(225.337,85.765) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">in1</text>
+</g>
+<g transform="translate(181.256,94.625) rotate(-0.000)">
+  <rect x="-7.455" y="-0.400"
+        width="14.910" height="0.800"
+        fill="white" stroke="black" stroke-width="0.05"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:black;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">MIC100.out1 &lt;-&gt; PREAMP1.in1</text>
+</g>
+<path d="M 73.063,61.635 C 96.500,61.635 96.500,61.635 119.937,61.635 C 120.876,61.635 121.265,62.024 121.265,62.963 C 121.265,75.249 121.265,75.249 121.265,87.534 C 121.265,88.970 120.670,89.565 119.234,89.565 C 117.099,89.565 117.099,89.565 114.963,89.565" stroke="#4039a1" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(73.063,61.635) rotate(-0.000)">
+  <rect x="-2.835" y="-0.400"
+        width="5.670" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">out1-shield</text>
+</g>
+<g transform="translate(114.963,89.565) rotate(-0.000)">
+  <rect x="-2.625" y="-0.400"
+        width="5.250" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch0-shield</text>
+</g>
+<g transform="translate(96.500,61.635) rotate(-0.000)">
+  <rect x="-9.975" y="-0.400"
+        width="19.950" height="0.800"
+        fill="white" stroke="black" stroke-width="0.05"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:black;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">MIC100.out1-shield &lt;-&gt; MIC2.out1-shield</text>
+</g>
+<path d="M 98.337,89.565 C 83.800,89.565 83.800,89.565 69.263,89.565" stroke="#4039a1" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(98.337,89.565) rotate(-0.000)">
+  <rect x="-2.625" y="-0.400"
+        width="5.250" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch0-shield</text>
+</g>
+<g transform="translate(69.263,89.565) rotate(-0.000)">
+  <rect x="-2.835" y="-0.400"
+        width="5.670" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">out1-shield</text>
+</g>
+<path d="M 225.337,89.535 C 217.164,89.535 217.164,89.535 208.991,89.535 C 206.185,89.535 203.795,88.851 203.795,91.658 C 203.795,92.440 203.795,92.440 203.795,93.222 C 203.795,98.137 206.335,97.803 206.335,102.718 C 206.335,103.714 206.335,103.714 206.335,104.709 C 206.335,107.079 206.621,108.635 208.991,108.635 C 211.464,108.635 211.464,108.635 213.937,108.635 C 215.396,108.635 216.535,108.504 216.535,109.963 C 216.535,110.026 216.535,109.774 216.535,109.837 C 216.535,111.296 216.404,112.435 217.863,112.435 C 221.600,112.435 221.600,112.435 225.337,112.435" stroke="#4039a1" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(225.337,89.535) rotate(-0.000)">
+  <rect x="-2.625" y="-0.400"
+        width="5.250" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">in2-shield</text>
+</g>
+<g transform="translate(225.337,112.435) rotate(-0.000)">
+  <rect x="-2.625" y="-0.400"
+        width="5.250" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">in1-shield</text>
+</g>
+<path d="M 225.337,114.935 C 216.500,114.935 216.500,114.935 207.663,114.935 C 206.204,114.935 206.335,113.796 206.335,112.337 C 206.335,111.814 206.335,111.814 206.335,111.291 C 206.335,107.939 205.065,108.061 205.065,104.709 C 205.065,103.714 205.065,103.714 205.065,102.718 C 205.065,100.237 203.603,99.705 201.122,99.705 C 181.323,99.705 181.323,99.705 161.523,99.705" stroke="#d59a10" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(225.337,114.935) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">in2</text>
+</g>
+<g transform="translate(161.523,99.705) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch2</text>
+</g>
+<g transform="translate(181.323,99.705) rotate(-0.000)">
+  <rect x="-7.455" y="-0.400"
+        width="14.910" height="0.800"
+        fill="white" stroke="black" stroke-width="0.05"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:black;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">PREAMP2.in2 &lt;-&gt; VOCAL1.out1</text>
+</g>
+<path d="M 140.777,99.705 C 133.350,99.705 133.350,99.705 125.923,99.705 C 123.280,99.705 121.265,99.562 121.265,102.206 C 121.265,105.958 121.265,105.958 121.265,109.709 C 121.265,113.000 121.265,113.000 121.265,116.291 C 121.265,125.764 121.265,125.764 121.265,135.237 C 121.265,136.176 120.876,136.565 119.937,136.565 C 99.700,136.565 99.700,136.565 79.463,136.565" stroke="#d59a10" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(140.777,99.705) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch2</text>
+</g>
+<g transform="translate(79.463,136.565) rotate(-0.000)">
+  <rect x="-1.365" y="-0.400"
+        width="2.730" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">out1</text>
+</g>
+<g transform="translate(99.700,136.565) rotate(-0.000)">
+  <rect x="-7.455" y="-0.400"
+        width="14.910" height="0.800"
+        fill="white" stroke="black" stroke-width="0.05"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:black;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">PREAMP2.in2 &lt;-&gt; VOCAL1.out1</text>
+</g>
+<path d="M 225.337,113.665 C 216.500,113.665 216.500,113.665 207.663,113.665 C 206.204,113.665 205.065,113.796 205.065,112.337 C 205.065,111.814 205.065,111.814 205.065,111.291 C 205.065,108.201 203.795,108.333 203.795,105.243 C 203.795,103.810 203.795,103.810 203.795,102.378 C 203.795,101.196 203.074,100.975 201.891,100.975 C 181.256,100.975 181.256,100.975 160.620,100.975" stroke="#4039a1" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(225.337,113.665) rotate(-0.000)">
+  <rect x="-2.625" y="-0.400"
+        width="5.250" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">in2-shield</text>
+</g>
+<g transform="translate(160.620,100.975) rotate(-0.000)">
+  <rect x="-2.625" y="-0.400"
+        width="5.250" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch0-shield</text>
+</g>
+<g transform="translate(181.256,100.975) rotate(-0.000)">
+  <rect x="-10.395" y="-0.400"
+        width="20.790" height="0.800"
+        fill="white" stroke="black" stroke-width="0.05"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:black;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">PREAMP2.in2-shield &lt;-&gt; VOCAL1.out1-shield</text>
+</g>
+<path d="M 141.680,100.975 C 133.350,100.975 133.350,100.975 125.020,100.975 C 122.472,100.975 119.995,99.275 119.995,101.823 C 119.995,106.033 119.995,106.033 119.995,110.243 C 119.995,113.523 122.535,113.011 122.535,116.291 C 122.535,125.764 122.535,125.764 122.535,135.237 C 122.535,137.074 121.774,137.835 119.937,137.835 C 99.700,137.835 99.700,137.835 79.463,137.835" stroke="#4039a1" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(141.680,100.975) rotate(-0.000)">
+  <rect x="-2.625" y="-0.400"
+        width="5.250" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch0-shield</text>
+</g>
+<g transform="translate(79.463,137.835) rotate(-0.000)">
+  <rect x="-2.835" y="-0.400"
+        width="5.670" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">out1-shield</text>
+</g>
+<g transform="translate(99.700,137.835) rotate(-0.000)">
+  <rect x="-10.395" y="-0.400"
+        width="20.790" height="0.800"
+        fill="white" stroke="black" stroke-width="0.05"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:black;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">PREAMP2.in2-shield &lt;-&gt; VOCAL1.out1-shield</text>
+</g>
+<path d="M 79.463,112.365 C 88.900,112.365 88.900,112.365 98.337,112.365" stroke="#d59a10" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(79.463,112.365) rotate(-0.000)">
+  <rect x="-1.365" y="-0.400"
+        width="2.730" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">out1</text>
+</g>
+<g transform="translate(98.337,112.365) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch0</text>
+</g>
+<path d="M 114.963,112.365 C 116.786,112.365 116.786,112.365 118.609,112.365 C 121.415,112.365 123.805,113.049 123.805,110.243 C 123.805,106.033 123.805,106.033 123.805,101.823 C 123.805,99.180 123.662,97.165 126.306,97.165 C 133.350,97.165 133.350,97.165 140.394,97.165" stroke="#d59a10" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(114.963,112.365) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch0</text>
+</g>
+<g transform="translate(140.394,97.165) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch3</text>
+</g>
+<path d="M 161.906,97.165 C 181.344,97.165 181.344,97.165 200.782,97.165 C 205.076,97.165 207.605,98.085 207.605,102.378 C 207.605,103.810 207.605,103.810 207.605,105.243 C 207.605,106.510 207.724,107.365 208.991,107.365 C 211.464,107.365 211.464,107.365 213.937,107.365 C 215.396,107.365 215.265,108.504 215.265,109.963 C 215.265,110.026 215.265,109.774 215.265,109.837 C 215.265,111.296 216.404,111.165 217.863,111.165 C 221.600,111.165 221.600,111.165 225.337,111.165" stroke="#d59a10" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(161.906,97.165) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch3</text>
+</g>
+<g transform="translate(225.337,111.165) rotate(-0.000)">
+  <rect x="-1.155" y="-0.400"
+        width="2.310" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">in1</text>
+</g>
+<g transform="translate(181.344,97.165) rotate(-0.000)">
+  <rect x="-7.035" y="-0.400"
+        width="14.070" height="0.800"
+        fill="white" stroke="black" stroke-width="0.05"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:black;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">MIC3.out1 &lt;-&gt; PREAMP2.in1</text>
+</g>
+<path d="M 79.463,113.635 C 88.900,113.635 88.900,113.635 98.337,113.635" stroke="#4039a1" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(79.463,113.635) rotate(-0.000)">
+  <rect x="-2.835" y="-0.400"
+        width="5.670" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">out1-shield</text>
+</g>
+<g transform="translate(98.337,113.635) rotate(-0.000)">
+  <rect x="-2.625" y="-0.400"
+        width="5.250" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch0-shield</text>
+</g>
+<path d="M 114.963,113.635 C 116.786,113.635 116.786,113.635 118.609,113.635 C 121.385,113.635 122.535,112.485 122.535,109.709 C 122.535,105.958 122.535,105.958 122.535,102.206 C 122.535,99.539 123.639,98.435 126.306,98.435 C 133.350,98.435 133.350,98.435 140.394,98.435" stroke="#4039a1" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(114.963,113.635) rotate(-0.000)">
+  <rect x="-2.625" y="-0.400"
+        width="5.250" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch0-shield</text>
+</g>
+<g transform="translate(140.394,98.435) rotate(-0.000)">
+  <rect x="-2.625" y="-0.400"
+        width="5.250" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch1-shield</text>
+</g>
+<path d="M 161.906,98.435 C 181.344,98.435 181.344,98.435 200.782,98.435 C 204.289,98.435 205.065,96.388 205.065,92.882 C 205.065,92.536 205.065,92.536 205.065,92.191 C 205.065,88.900 205.065,88.900 205.065,85.609 C 205.065,85.086 205.065,85.086 205.065,84.563 C 205.065,82.726 205.826,81.965 207.663,81.965 C 210.800,81.965 210.800,81.965 213.937,81.965 C 215.774,81.965 216.535,82.726 216.535,84.563 C 216.535,84.626 216.535,84.374 216.535,84.437 C 216.535,85.896 216.404,87.035 217.863,87.035 C 221.600,87.035 221.600,87.035 225.337,87.035" stroke="#4039a1" stroke-width="0.28800000000000003" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(161.906,98.435) rotate(-0.000)">
+  <rect x="-2.625" y="-0.400"
+        width="5.250" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">ch1-shield</text>
+</g>
+<g transform="translate(225.337,87.035) rotate(-0.000)">
+  <rect x="-2.625" y="-0.400"
+        width="5.250" height="0.800"
+        fill="black" stroke="black" stroke-width="0.2"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:white;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">in1-shield</text>
+</g>
+<g transform="translate(181.344,98.435) rotate(-0.000)">
+  <rect x="-9.975" y="-0.400"
+        width="19.950" height="0.800"
+        fill="white" stroke="black" stroke-width="0.05"/>
+  <text x="0" y="0" text-anchor="middle"
+        style="fill:black;dominant-baseline:middle;
+               font-weight:normal;font-family:Arial, Helvetica, sans-serif;
+               font-size:0.2mm">MIC3.out1-shield &lt;-&gt; PREAMP1.in1-shield</text>
+</g>
+  </g>
+  <g id="kicad_sch_parser-net-overlay-contents-end"/>
+</svg>

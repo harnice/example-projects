@@ -7,18 +7,11 @@ from harnice.lists import (
     circuits_list,
     disconnect_map,
 )
-import os
 from harnice.products import chtype
 
 # ===========================================================================
 #                   KICAD PROCESSING
 # ===========================================================================
-feature_tree_utils.run_macro(
-    "kicad_sch_to_pdf",
-    "system_artifacts",
-    "https://github.com/harnice/harnice",
-    artifact_id="blockdiagram-1",
-)
 feature_tree_utils.run_macro(
     "kicad_pro_to_bom",
     "system_builder",
@@ -71,6 +64,9 @@ feature_tree_utils.run_macro(
     artifact_id="disconnect-mapper-1",
 )
 
+# ensure channels that are required to be mapped through disconnects are in fact done so
+disconnect_map.ensure_requirements_met()
+
 # process channel and disconnect maps to make a list of every circuit in your system
 circuits_list.new()
 
@@ -113,31 +109,6 @@ for instance in fileio.read_tsv("instances list"):
                     "mpn": "D38999_26ZE6PN",
                     "lib_repo": "https://github.com/harnice/harnice",
                 },
-            )
-
-# assign styling to channels
-audio_channel_style = {
-    "base_color": "#D59A10",
-}
-shield_channel_style = {
-    "base_color": "#4039A1",
-}
-
-for instance in fileio.read_tsv("instances list"):
-    if instance.get("item_type") in ["channel", "net-channel"]:
-        if instance.get("this_channel_from_channel_type") in ["(1, 'https://github.com/harnice/harnice')", "(2, 'https://github.com/harnice/harnice')"]:
-            instances_list.modify(
-                instance.get("instance_name"),
-                {
-                    "appearance": audio_channel_style
-                }
-            )
-        if instance.get("this_channel_from_channel_type") == "(5, 'https://github.com/harnice/harnice')":
-            instances_list.modify(
-                instance.get("instance_name"),
-                {
-                    "appearance": shield_channel_style
-                }
             )
 
 
@@ -225,17 +196,56 @@ system_utils.find_connector_with_no_circuit(connector_list, circuits_list)
 
 
 # ===========================================================================
+#                   ADD STYLING AND PRINT NAMES TO CHANNELS
+# ===========================================================================
+# assign styling to channels
+audio_channel_style = {
+    "base_color": "#D59A10",
+}
+shield_channel_style = {
+    "base_color": "#4039A1",
+}
+
+for instance in fileio.read_tsv("instances list"):
+    if instance.get("item_type") in ["channel", "net-channel"]:
+        if instance.get("this_channel_from_channel_type") in ["(1, 'https://github.com/harnice/harnice')", "(2, 'https://github.com/harnice/harnice')"]:
+            instances_list.modify(
+                instance.get("instance_name"),
+                {
+                    "appearance": audio_channel_style
+                }
+            )
+        if instance.get("this_channel_from_channel_type") == "(5, 'https://github.com/harnice/harnice')":
+            instances_list.modify(
+                instance.get("instance_name"),
+                {
+                    "appearance": shield_channel_style
+                }
+            )
+
+for instance in fileio.read_tsv("instances list"):
+    if instance.get("item_type") == "net-channel":
+        instances_list.modify(instance.get("instance_name"), {
+            "print_name_at_end_a": instance.get("this_net_from_device_channel_id"),
+            "print_name_at_end_b": instance.get("this_net_to_device_channel_id")
+        })
+
+# ===========================================================================
 #                   SYSTEM ARTIFACT GENERATORS
 # ===========================================================================
 
-# map channels passing through disconnects to available channels inside disconnects
-fileio.silentremove(os.path.join(fileio.dirpath("instance_data"), "macro", "blockdiagram-chmap-1"))
+# prepare the channel map block diagram overlay
+chmap_instances = []
+for instance in fileio.read_tsv("instances list"):
+    if instance.get("item_type") == "net-channel":
+        chmap_instances.append(instance)
 feature_tree_utils.run_macro(
     "kicad_sch_net_overlay",
     "system_artifacts",
     "https://github.com/harnice/harnice",
     artifact_id="blockdiagram-chmap-1",
     item_type="net-channel",
+    instances=chmap_instances
 )
 
 # for convenience, move any pdf to the base directory of the harness

@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/Users/kenyonshutt/The Dropbox/Kenyon Shutt/Projects/2024-11-26-harnice/example-projects/four-mic-studio/S01/S01-rev1/kicad/S01-rev1.kicad_sch")
-    (date "2026-02-01T19:15:56-0800")
+    (date "2026-02-01T20:03:20-0800")
     (tool "Eeschema 9.0.3")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block

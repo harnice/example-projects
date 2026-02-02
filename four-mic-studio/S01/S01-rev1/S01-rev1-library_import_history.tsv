@@ -1,5 +1,4 @@
 instance_name	mpn	item_type	lib_repo	lib_subpath	lib_desc	lib_latest_rev	lib_rev_used_here	lib_status	lib_releaseticket	lib_datestarted	lib_datemodified	lib_datereleased	lib_drawnby	lib_checkedby	project_editable_lib_modified
-blockdiagram-1	kicad_sch_to_pdf	macro	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	system_artifacts		1	1			10/8/25	11/4/25				False
 bom-1	kicad_pro_to_bom	macro	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	system_builder		1	1			8/23/25	11/4/25				False
 MIC2	sm58	device	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	pro_audio/shure/	MICROPHONE, HANDHELD	1	1			9/21/25	10/23/25				False
 MIC3	sm58	device	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	pro_audio/shure/	MICROPHONE, HANDHELD	1	1			9/21/25	10/23/25				False
@@ -17,20 +16,20 @@ cable-1	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_p
 cable-1	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
 cable-9	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
 cable-9	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
-cable-12	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
-cable-12	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
-cable-14	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
-cable-14	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
+cable-10	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
+cable-10	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
+cable-13	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
+cable-13	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
 cable-15	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
 cable-15	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
 cable-17	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
 cable-17	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
-cable-20	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
-cable-20	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
-cable-22	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
-cable-22	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
+cable-18	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
+cable-18	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
+cable-21	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
+cable-21	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
 cable-23	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
 cable-23	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
-cable-30	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
-cable-30	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
+cable-31	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
+cable-31	8762 0602000	cable	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	belden	SHIELDED TWISTED PAIR	1	1			10/18/25	11/17/25		K SHUTT		False
 blockdiagram-chmap-1	kicad_sch_net_overlay	macro	/Users/kenyonshutt/Documents/GitHub/harnice/library_public	system_artifacts	Produces a PDF drawing of a system block diagram but shows channels instead of harnesses	1	1			1/20/26	1/27/26		K SHUTT		False
